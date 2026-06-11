@@ -19,6 +19,6 @@ forge build
 
 ## Deployment
 
-- Contract: `0xDF2DEa85bf5d5ecA626c9B32bCb8C3807De753E9`
+- Contract: `0x81079623A1152B92db04BF7F781f7Ff5Bfc99a58`
 - Tx: `inferred-from-nonce`
-- Explorer: https://testnet.arcscan.app/address/0xDF2DEa85bf5d5ecA626c9B32bCb8C3807De753E9
+- Explorer: https://testnet.arcscan.app/address/0x81079623A1152B92db04BF7F781f7Ff5Bfc99a58
